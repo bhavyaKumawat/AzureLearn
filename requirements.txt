@@ -1,3 +1,5 @@
 python-dotenv
 langchain
 langchain-mcp-adapters
+langchain-openai
+langchain-google-community
